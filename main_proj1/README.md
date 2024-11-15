@@ -10,7 +10,6 @@
 <img src="docs/images/main.png" alt="drawing"/></a>
 </p>
 
------------------------
 
 # How to use
 
