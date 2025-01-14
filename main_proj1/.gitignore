@@ -1,6 +1,0 @@
-.history
-.DS_Store
-.ipynb_checkpoints
-.vscode
-__pycache__
-*.pyc
