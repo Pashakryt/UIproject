@@ -63,16 +63,11 @@ new_distance == old_distance:
 ```
 
 ### Graphs showing the process of robot training
-<div style="display: flex; justify-content: center; align-items: center gap: 20px;" >
-
-<div style="display: block; ">
-  <img src="img/Training2.jpg" alt="Robot Action 2" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="img/Training2.jpg" alt="Robot Action 2" style="width: 45%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
+  <img src="img/Training1.jpg" alt="Robot Action 1" style="width: 45%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
 </div>
 
-<div style="display: block;">
-  <img src="img/Training1.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
-</div>
-</div>
 
 ### From the following graph we can see that the average distance between the target point and the point what gives the model is 15.78 mm.
 
