@@ -78,13 +78,13 @@ new_distance == old_distance:
 - In 3.5% of cases the model gives a distance greater than 40 mm, which realistically means that the model has chosen the wrong action
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="img/Graph2.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
+  <img src="img/Graph1.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
 </div>
 
 ## The graph shows the average rewards during learning for every 250 episodes
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="img/Graph1.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
+  <img src="img/Graph2.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
 </div>
 
 ## :bookmark_tabs: Сonclusion
