@@ -65,11 +65,11 @@ new_distance == old_distance:
 ### Graphs showing the process of robot training
 <div style="display: flex; justify-content: center; align-items: center">
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: block; justify-content: center; align-items: center; gap: 20px;">
   <img src="img/Training2.jpg" alt="Robot Action 2" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: block; justify-content: center; align-items: center; gap: 20px;">
   <img src="img/Training1.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
 </div>
 </div>
