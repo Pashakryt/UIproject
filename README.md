@@ -48,6 +48,8 @@ python visualization.py
 
 ### Function to reward and punish the robot during training
 
+This reward function works by comparing the distance between the current position and the target position before and after the action. If the distance has not changed (new_distance == old_distance), the model failed to perform the action, which is penalized. When the model gets closer to the target, it receives a reward. If it is not close to the target, its reward depends on the difference between the previous distance and the new distance.
+
 ```python
 new_distance == old_distance: 
             reward = -100.0
