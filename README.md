@@ -46,10 +46,43 @@ python visualization.py
 
 ## The process of training and testing the robot
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="img/Training1.jpg" alt="Robot Action 1" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
-  <img src="img/Training2.jpg" alt="Robot Action 2" style="width: 50%; max-width: 300px; border: 2px solid #ccc; border-radius: 8px;">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Centered Images</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      background-color: #f5f5f5;
+    }
+    .image-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 20px;
+    }
+    .image-container img {
+      width: 50%;
+      max-width: 300px;
+      border: 2px solid #ccc;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="image-container">
+    <img src="img/Training1.jpg" alt="Robot Action 1">
+    <img src="img/Training2.jpg" alt="Robot Action 2">
+  </div>
+</body>
+</html>
+
 
 ## :bookmark_tabs: Сonclusion
 
